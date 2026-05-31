@@ -29,7 +29,7 @@ The model was trained using a custom trading journal dataset containing historic
 | F1 Score | 89% |
 
 ## Confusion Matrix
-
+![Confusion Matrix](Screenshots/confusion_matrix.png)
 See `Screenshots/confusion_matrix.png`
 
 ## Files
