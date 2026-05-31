@@ -30,7 +30,6 @@ The model was trained using a custom trading journal dataset containing historic
 
 ## Confusion Matrix
 ![Confusion Matrix](Screenshots/confusion_matrix.png)
-See `Screenshots/confusion_matrix.png`
 
 ## Files
 
